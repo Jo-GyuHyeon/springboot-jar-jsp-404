@@ -51,7 +51,7 @@ There was an unexpected error (type=Not Found, status=404).
 >
 > STS(Spring Tool Suite)와 같은 IDE 실행에서는 정상 작동을 하였지만 java -jar 옵션을 이용한 jar 파일은 JSP 화면이 나타나지 않았다.
 
-![404] (./img/pom xml.png) 
+![404] (./img/404.png) 
 
 
 
