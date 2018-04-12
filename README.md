@@ -51,7 +51,7 @@ There was an unexpected error (type=Not Found, status=404).
 >
 > STS(Spring Tool Suite)와 같은 IDE 실행에서는 정상 작동을 하였지만 java -jar 옵션을 이용한 jar 파일은 JSP 화면이 나타나지 않았다.
 
-![404] (./img/404.png) 
+![404](./img/404.png) 
 
 
 
@@ -101,7 +101,7 @@ There was an unexpected error (type=Not Found, status=404).
   ![folder](./img/folder.png)
 
 * (STS 기준) Build Goals 는 package 라고 적으면 된다.
-  ![build goals](./img/build goals.png)
+  ![build goals](./img/build-goals.png)
 
 # 해결방법(solution)
 
@@ -131,7 +131,7 @@ There was an unexpected error (type=Not Found, status=404).
 > /helloworld/src/main/webapp/WEB-INF/jsp
 > ```
 
-![folder 2](./img/folder 2.png)
+![folder 2](./img/folder2.png)
 
 
 
@@ -150,7 +150,7 @@ There was an unexpected error (type=Not Found, status=404).
 
 #### 결과화면
 
-![war 파일 실행](./img/war 파일 실행.png)
+![war파일실행](./img/war파일실행.png)
 
 
 
