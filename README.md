@@ -150,7 +150,7 @@ There was an unexpected error (type=Not Found, status=404).
 
 #### 결과화면
 
-![war파일실행](./img/war파일실행.png)
+![war파일실행](./img/war파일실행.png)
 
 
 
